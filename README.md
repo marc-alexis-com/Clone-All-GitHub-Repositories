@@ -53,7 +53,7 @@ The script will create a directory named after the user or organization and clon
 ## Notes
 
 - This script only downloads public repositories.
-- The GitHub API limits the number of results to 100 per page. If the user or organization has more than 100 repositories, you will need to handle pagination by adding additional parameters to the API URL.
+- The GitHub API limits the number of results to 100 per page.
 - Ensure you comply with GitHub's [Terms of Service](https://docs.github.com/en/github/site-policy/github-terms-of-service).
 
 ## Possible Improvements
